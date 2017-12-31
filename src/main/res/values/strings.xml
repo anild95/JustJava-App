@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="Order">Order</string>
+    <string name="plus">+</string>
+    <string name="_1">1</string>
+    <string name="minus">-</string>
+    <string name="price">PRICE</string>
+    <string name="this_sample_app_calculates">This sample app calculates</string>
+    <string name="and_tracking_basic_coffee_order">and tracking basic coffee order!</string>
+
+</resources>
